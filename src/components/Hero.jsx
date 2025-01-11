@@ -121,12 +121,12 @@ function Hero() {
             </div>
           </div>
           <div className="text-center">
-            <h1 className="text-balance text-5xl font-semibold tracking-tight text-gray-900 sm:text-7xl">
-            أنا أنور فتح الله
-            </h1>
+            <h1 className="text-balance text-3xl font-semibold tracking-tight text-gray-900 sm:text-5xl">
+            حوّل فكرتك إلى موقع إلكتروني            </h1>
             <p className="mt-8 text-pretty text-lg font-medium text-gray-500 sm:text-xl/8">
-            مطور مواقع محترف بخبرة تتجاوز 7 سنوات. أساعدك في تصميم وتطوير مواقع إلكترونية عالية الجودة تعكس هويتك وتجذب جمهورك
-            </p>
+            نساعدك على بناء حضور رقمي قوي من خلال تصميم مواقع مبتكرة ومتجاوبة تناسب احتياجاتك وتحقق أهداف عملك. معنا، ستصل إلى جمهورك بطريقة أكثر احترافية.
+
+</p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a
                 href="https://wa.link/ygdks8"
