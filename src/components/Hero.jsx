@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { Dialog, DialogPanel } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 import anwar from "../assets/team.jpg"
-import logo from "../assets/websites.png"
+import logo from "../assets/Websites.png"
 
 const navigation = [
   { name: ' من نحن', href: '#me' },
