@@ -77,7 +77,7 @@ function Services() {
                 </h3>
                 <p className="text-gray-600 mt-2">{item.description}</p>
                 <a
-                  href="https://wa.link/ygdks8"
+                  href="https://wa.link/byjqqp"
                   className="inline-block mt-4 px-4 py-2 bg-lime-500 text-white font-medium text-sm rounded-lg hover:bg-blue-600"
                 >
                   تواصل معنا

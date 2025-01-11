@@ -1,13 +1,13 @@
 import { useState } from 'react'
 import { Dialog, DialogPanel } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
-import anwar from "../assets/anwar.png"
-import logo from "../assets/logo.png"
+import anwar from "../assets/team.jpg"
+import logo from "../assets/websites.png"
 
 const navigation = [
-  { name: 'من أنا', href: '#me' },
-  { name: 'خدماتي', href: '#services' },
-  { name: 'اعمالي', href: '#works' },
+  { name: ' من نحن', href: '#me' },
+  { name: 'خدماتنا', href: '#services' },
+  { name: 'اعمالنا', href: '#works' },
   { name: 'الأثمنة', href: '#price' },
 ]
 
@@ -45,7 +45,7 @@ function Hero() {
             ))}
           </div>
           <div className="hidden lg:flex lg:flex-1 lg:justify-end">
-            <a href="https://wa.link/ygdks8" className="text-sm/6 font-semibold text-gray-900">
+            <a href="https://wa.link/byjqqp" className="text-sm/6 font-semibold text-gray-900">
             ابدأ مشروعك الآن <span aria-hidden="true">&rarr;</span>
             </a>
           </div>
@@ -85,7 +85,7 @@ function Hero() {
                 </div>
                 <div className="py-6">
                   <a
-                    href="https://wa.link/ygdks8"
+                    href="https://wa.link/byjqqp"
                     className="-mx-3 block rounded-lg px-3 py-2.5 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
                   >
                     ابدأ مشروعك الآن
@@ -129,11 +129,11 @@ function Hero() {
 </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a
-                href="https://wa.link/ygdks8"
+                href="https://wa.link/byjqqp"
                 className="rounded-md bg-lime-500	 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
               >
-                تواصل معي الآن
-              </a>
+تواصل معنا الآن
+</a>
               <a href="#price" className="text-sm/6 font-semibold text-gray-900">
               الباقات الأثمنة <span aria-hidden="true">→</span>
               </a>

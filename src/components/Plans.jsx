@@ -4,7 +4,7 @@ const tiers = [
   {
     name: 'الخطة الأساسية',
     id: 'tier-hobby',
-    href: 'https://wa.link/ygdks8',
+    href: 'https://wa.link/byjqqp',
     priceMonthly: '1000 درهم',
     description: "تصميم موقع ويب احترافي بـ 5 صفحات",
     features: ['تصميم موقع ويب مكون من 5 صفحات', 'تصميم متجاوب لجميع الأجهزة', 'تكامل أساسي مع وسائل التواصل الاجتماعي', 'شهادة SSL مجانية', 'استضافة ودومين مجاني لمدة عام','دعم لمدة شهر بعد التسليم'],
@@ -13,7 +13,7 @@ const tiers = [
   {
     name: 'الخطة المتقدمة',
     id: 'tier-enterprise',
-    href: 'https://wa.link/ygdks8',
+    href: 'https://wa.link/byjqqp',
     priceMonthly: '2000 درهم',
     description: 'تصميم موقع ويب مخصص مع أكثر من 5 صفحات',
     features: [
