@@ -120,7 +120,7 @@ function Hero() {
         
             </div>
           </div>
-          <div className="text-center">
+          <div className="text-center py-5">
             <h1 className="text-balance text-3xl font-semibold tracking-tight text-gray-900 sm:text-5xl">
             حوّل فكرتك إلى موقع إلكتروني            </h1>
             <p className="mt-8 text-pretty text-lg font-medium text-gray-500 sm:text-xl/8">

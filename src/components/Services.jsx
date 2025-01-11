@@ -54,8 +54,7 @@ function Services() {
       <div className="bg-slate-50	py-20" id="services">
         <div className="mx-auto max-w-4xl text-center">
           <p className="mt-2 text-balance text-5xl font-semibold tracking-tight text-indigo-900 sm:text-6xl">
-          الخدمات التي أقدمها
-          </p>
+          خدماتنا          </p>
         </div>
         <p className="mx-auto mt-6 max-w-2xl text-pretty text-center text-lg font-medium text-gray-600 sm:text-xl/8">
         خبرة تمتد لأكثر من 7 سنوات في تقديم حلول ويب مميزة وفعالة
